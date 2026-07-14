@@ -1,0 +1,2 @@
+# Kugiri_releases
+Windows用デスクトップアイコン整理アプリ
